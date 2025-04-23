@@ -1,7 +1,7 @@
 class AppText {
   // HomeScreen
-  static const String welcomeTitle = 'Hoş Geldin Büyücü Adayı!';
+  static const String welcomeTitle = 'Welcome, Young Wizard!';
   static const String welcomeDescription =
-      'Harry Potter evrenine hoş geldin!\nKarakterleri, büyüleri ve gizemli kartları keşfetmeye hazır mısın?';
-  static const String welcomeButton = 'Keşfetmeye Başla';
+      'Welcome to the world of Harry Potter!\nAre you ready to explore characters, spells, and mysterious cards?';
+  static const String welcomeButton = 'Start Exploring';
 }
